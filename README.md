@@ -34,7 +34,24 @@ This repository contains solutions for the following tasks:
 
 ## 📁 Folder Structure
 
-ObjectDetection-and-Comparison/ ├── Task1_DetectionSummary/ │   ├── task1.ipynb │   ├── task1.pdf │   ├── detection_results.json │   ├── object_frequency_chart.png │   └── README.md │ ├── Task3_ModelComparison/ │   ├── task3.ipynb │   ├── task3.html or task3.pdf │   ├── Dockerfile │   ├── images/ │   ├── outputs/ │   └── README.md │ └── README.md
+ObjectDetection-and-Comparison/
+├── Task1_DetectionSummary/
+│   ├── task1.ipynb
+│   ├── task1.pdf
+│   ├── detection_results.json
+│   ├── object_frequency_chart.png
+│   └── README.md
+│
+├── Task3_ModelComparison/
+│   ├── task3.ipynb
+│   ├── task3.html  (or task3.pdf)
+│   ├── Dockerfile
+│   ├── images/
+│   ├── outputs/
+│   └── README.md
+│
+└── README.md  ← main project-level README
+
 
 ---
 
