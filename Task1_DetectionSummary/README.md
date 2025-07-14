@@ -75,14 +75,6 @@ pip install ultralytics opencv-python matplotlib
 
 ```bash
 jupyter notebook task1.ipynb
-```
-
----
-
-## 🚫 Excluded from Submission
-
-* `.venv/` (virtual environment) — removed to reduce size (\~2 GB)
-* `.ipynb_checkpoints/`, `__pycache__/`, and other cache folders
 
 ---
 
