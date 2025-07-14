@@ -1,0 +1,11 @@
+filename,inference_time_yolov5n,inference_time_yolov5s,detection_count_yolov5n,detection_count_yolov5s,class_diversity_yolov5n,class_diversity_yolov5s
+img1.jpg,0.3041,0.3552,19.0,17.0,4.0,4.0
+img10.jpg,0.073,0.1006,20.0,21.0,4.0,5.0
+img2.jpg,0.1683,0.2442,1.0,0.0,1.0,0.0
+img3.jpg,0.2666,0.3148,19.0,17.0,2.0,1.0
+img4.jpg,0.0821,0.1443,8.0,8.0,1.0,1.0
+img5.jpg,0.0719,0.1111,12.0,17.0,4.0,4.0
+img6.jpg,0.0561,0.1168,17.0,17.0,3.0,4.0
+img7.jpg,0.0724,0.1447,44.0,56.0,4.0,6.0
+img8.jpg,0.0687,0.1295,16.0,19.0,2.0,3.0
+img9.jpg,0.0569,0.1116,21.0,23.0,4.0,5.0
